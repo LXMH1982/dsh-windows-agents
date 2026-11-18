@@ -1,0 +1,7 @@
+# Inserts the Host row that owns the `global-agents` settings namespace.
+# `content` is a volatile field, so a form write updates the running plugin in
+# place instead of restarting it (dsh-settings exposes volatile fields only).
+- insert:
+    - id: global-agents
+      name: dsh-windows-agents
+      config: {}

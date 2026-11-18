@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "个性化",
+    "description": "编辑用户全局 AGENTS.md：每个会话都会在项目指令之前加载它。",
+    "detail": "docs/DETAIL.md"
+  }
+}

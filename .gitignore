@@ -1,0 +1,19 @@
+# Installed dependencies — restored by npm install
+node_modules/
+
+# Packed bundle artifacts (npm pack / local installs)
+*.tgz
+*.tar.gz
+
+# Logs and OS noise
+npm-debug.log*
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and temporary files
+.vscode/
+.idea/
+*.tmp
+*.swp

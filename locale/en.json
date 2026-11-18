@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Personalization",
+    "description": "Edits the user-global AGENTS.md that every session loads before its project instructions.",
+    "detail": "docs/DETAIL.md"
+  }
+}
